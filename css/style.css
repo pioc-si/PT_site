@@ -1,0 +1,70 @@
+body {
+    background-color: #1a1b19e3;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+.nav_bar {
+    font-size: 30px;
+    font-weight: bold;
+}
+.container {
+    margin-top: 30px;
+}
+.row {
+}
+
+.nav_tex {
+    float: right;
+}
+
+.title_photo {
+    text-align: center;
+}
+.col-2.nav_logo {
+}
+.col-8.nav_text {
+        display: flex;
+        align-items: center;
+        justify-content: right;
+}
+
+.row.cats_logo {
+    background: url(../catslogo.jpeg) no-repeat center center;
+    background-size: 50%;
+    width: 100px;
+    height: 100px;
+
+}
+
+.col-4 {
+
+}
+.row.cats_photo {
+    background: url(../cats.jpg) no-repeat center center;
+    background-size: 110%;
+    width: 300px;
+    height: 300px;
+
+}
+
+.title_photo {
+}
+
+.button_js {
+    text-align: center;
+}
+
+#this_button {
+    border: none;
+    border-radius: 15px;
+    width: 150px;
+    height: 50px;
+    background-color: aqua;
+    color: rgb(230, 19, 19);
+    font-weight: bold;
+}
+
+#demo img {
+    margin-top: 40px;
+    width: 25%;
+}
